@@ -2,9 +2,9 @@
 
 **Integrantes:**
 
-  * [Pedro Henrique Esperidião Aureliano](https://www.google.com/search?q=https://github.com/pedroEKS) 
-  * [Matheus Rocha Nogueira](https://www.google.com/search?q=https://github.com/Mathrochaa) 
-  * [Rafael Araújo Pace](https://www.google.com/search?q=https://github.com/RafaelPace) 
+  * [Pedro Henrique Esperidião Aureliano](https://github.com/pedroEKS) 
+  * [Matheus Rocha Nogueira](https://github.com/Mathrochaa) 
+  * [Rafael Araújo Pace](https://github.com/RafaelPace) 
   * [Humberto Freitas](https://github.com/FreitasCyberSec)
 -----
 
